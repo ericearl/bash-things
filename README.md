@@ -1,5 +1,6 @@
-# bash-things
-A repo for my common custom BASH things.
+# BASH Things
+
+A repo for my common custom BASH things. Bourne Again Shell, that is. Not the other kind of bash.
 
 ## `.bash_aliases`
 
